@@ -8,11 +8,11 @@
 
 신경망은 다음과 같이 **입력층**, **출력층**, **중간층**으로 나뉜다.
 
-![1.png](images/1.png){: width="100", height="200"}{: .center}
+<center><img src="images/1.png" width="300" height="350"></center>
 
 중간층에서는 가중치를 계산한 값을 출력 신호로 변환하는 **활성함수**(**activation function**)가 존재한다.
 
-
+<center><img src="images/2.png" width="400" height="250"></center>
 
 위 그림에서는 앞으로 볼 sigmoid함수가 활성함수로서 작동한다. 활성함수를 통과한 값들은 다음 **뉴런** 혹은 **노드**로 값이 전달된다.
 
