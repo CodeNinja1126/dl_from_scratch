@@ -4,5 +4,5 @@
 파이썬을 다루는 1장은 넘어가고 본격적으로 딥러닝에 대해서 이야기하는 2장부터의 내용을 다룹니다.
 
 # 목차
-2. [퍼셉트론]()
+2. [퍼셉트론](https://github.com/CodeNinja1126/dl_from_scratch/tree/main/2_perceptron)
 3. 신경망
