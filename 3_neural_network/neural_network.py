@@ -43,7 +43,7 @@ def forward(network, x, out_func=softmax_function):
         out_func (function): output_function
 
     Returns:
-        y (.ndarray): output
+        y (np.ndarray): output
     """
     a1 = np.dot(x, network['W1']) + network['b1']
     z1 = sigmoid.sigmoid(a1)
