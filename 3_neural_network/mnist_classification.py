@@ -44,7 +44,7 @@ if __name__ == '__main__':
     
     accuracy_cnt = 0
 
-    ''' 한개 씩 계산
+    ''' 한 개씩 계산
     for i in range(len(x)):
         y = predict(network, x[i])
         p = np.argmax(y)
