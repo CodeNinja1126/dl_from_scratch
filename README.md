@@ -6,3 +6,4 @@
 # 목차
 2. [퍼셉트론](https://github.com/CodeNinja1126/dl_from_scratch/tree/main/2_perceptron)
 3. [신경망](https://github.com/CodeNinja1126/dl_from_scratch/tree/main/3_neural_network)
+4. [신경망 학습](https://github.com/CodeNinja1126/dl_from_scratch/tree/main/4_learning_neural_network)
