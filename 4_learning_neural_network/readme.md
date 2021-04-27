@@ -88,5 +88,5 @@
 
 하나만 무작위로 고를 경우 **확률적 경사하강법(Stochastic Gradient Descent, SGD)**,
 
-무작위로 배치를 고를 경우 **미니배치 경사하강법(Mini-batch Gradient Descent, MGD)**라고 한다.
+무작위로 배치를 고를 경우 **미니배치 경사하강법(Mini-batch Gradient Descent, MGD)** 라고 한다.
 
